@@ -1,1 +1,1 @@
-# Trabalho-individual: Desenvolvimento de Aplicativos Móveis 
+# Desenvolvimento de Aplicativos Móveis 
