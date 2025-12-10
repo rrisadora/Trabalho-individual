@@ -39,6 +39,7 @@ https://docs.google.com/document/d/1teDBArMHD6sHkXd2gsgVChZbsqvBGNZFdUaJijzTwVM/
 ---
 
 ## 🧪 API – Swagger
+https://trabalho-senai-u6cz.onrender.com/aula/swagger-ui/index.html?authuser=2
 
  
 
