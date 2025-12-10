@@ -1,41 +1,48 @@
-💄 Glow Up – Revenda de Maquiagens
+# 🌟 Glow Up – Loja de Revenda de Maquiagens
 
-Bem-vindo(a) ao repositório da Glow Up, uma empresa dedicada à revenda de maquiagens, com foco em qualidade, beleza e autoconfiança. Nosso objetivo é levar produtos acessíveis e de alta qualidade para realçar a beleza de cada pessoa.
+## ✨ Descrição do Projeto
+O **Glow Up** é um aplicativo desenvolvido para facilitar a revenda de maquiagens, oferecendo ao usuário uma experiência clara, rápida e intuitiva.  
+A interface foi criada no **FlutterFlow**, enquanto o **back-end** foi desenvolvido no **VS Code**, garantindo integração eficiente entre o visual e a lógica da aplicação.
 
-✨ Sobre a Glow Up
+---
 
-A Glow Up nasceu com a missão de oferecer maquiagens modernas, acessíveis e de excelente qualidade. Trabalhamos com uma seleção de produtos que valorizam todos os tons de pele, estilos e personalidades.
+## 🎯 Funcionalidades
+- **Cadastro e Login** com validação.
+- **Tela Home** com destaques e categorias.
+- **Lista de Produtos** com exibição completa dos itens.
+- **Tela de Detalhes** com foto, preço e descrição do produto.
+- **Carrinho** com itens selecionados e cálculo automático.
+- **Finalização do Pedido** com resumo da compra.
 
-Nosso propósito é empoderar através da beleza, ajudando cada cliente a se sentir mais confiante e feliz consigo mesmo.
+---
 
-🎯 Objetivo do Projeto
+## 🛠️ Tecnologias Utilizadas
 
-Este projeto tem como objetivo:
+### **Frontend**
+- FlutterFlow  
 
-Representar digitalmente a marca Glow Up
 
-Divulgar produtos de maquiagem
+### **Backend**
+- VS Code  
+- Integrações e funções (API)
 
-Facilitar o acesso dos clientes às informações
+### **Outras Ferramentas**
+- GitHub (controle de versão)
 
-Servir como base para um sistema, site ou aplicativo da empresa
+- # 🔗 Links Importantes – Glow Up
 
-🛍️ Produtos Oferecidos
+## 📄 Documentação Completa do Projeto
+A documentação detalhada do Glow Up, incluindo telas, fluxos, funcionalidades e arquitetura, está disponível no link abaixo:
 
-Bases
+👉 **Documentação Completa**  
+https://docs.google.com/document/d/1teDBArMHD6sHkXd2gsgVChZbsqvBGNZFdUaJijzTwVM/edit?usp=sharing
+---
 
-Batons
+## 🧪 API – Swagger
 
-Paletas de sombras
+ 
 
-Delineadores
 
-Pós, blush e iluminadores
 
-Acessórios de maquiagem
+Código-fonte completo do aplicativo:
 
-📚 Documentação do Projeto
-
-Toda a documentação do projeto Glow Up está disponível no link abaixo:
-
-🔗 Acesse aqui: https://docs.google.com/document/d/1teDBArMHD6sHkXd2gsgVChZbsqvBGNZFdUaJijzTwVM/edit?usp=sharing
